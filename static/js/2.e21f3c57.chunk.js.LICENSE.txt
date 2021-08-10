@@ -1,7 +1,20 @@
-/*
-object-assign
-(c) Sindre Sorhus
-@license MIT
+/*!
+* Proton v4.2.1
+* https://github.com/drawcall/Proton
+*
+* Copyright 2013-2020, A-JIE
+* Licensed under the MIT license
+* http://www.opensource.org/licenses/mit-license
+*
+*/
+
+/*!
+* RAFManager v0.1.0
+*
+* Copyright 2018-2018, ajiemath <ajiemath@gmail.com>
+* Licensed under the MIT license
+* http://www.opensource.org/licenses/mit-license
+*
 */
 
 /*! *****************************************************************************
@@ -19,29 +32,11 @@ OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
 
-/** @license React v0.19.1
- * scheduler.production.min.js
+/*!@license
+ * UAParser.js v0.7.28
+ * Lightweight JavaScript-based User-Agent string parser
+ * https://github.com/faisalman/ua-parser-js
  *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-/** @license React v16.13.1
- * react-dom.production.min.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-/** @license React v16.13.1
- * react.production.min.js
- *
- * Copyright (c) Facebook, Inc. and its affiliates.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
+ * Copyright © 2012-2021 Faisal Salman <f@faisalman.com>
+ * Licensed under MIT License
  */
